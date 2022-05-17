@@ -19,7 +19,7 @@ public class HlavniProgram {
     }
 
     public void nakresliRovnostrannyTrojuhelnik(double velikostStrany) {
-        // Zde lze používat proměnnou velikostStrany.
+        // Zde lze používat proměnnou velikostStrany
         // Jeji hodnota je takova, s jakou byla metoda zavolana
         zofka.move(velikostStrany);
         zofka.turnLeft(120.0);
